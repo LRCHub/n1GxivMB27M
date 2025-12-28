@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "For The Future",
+  "base_artist": "平井 大",
+  "createdAt": "2025-12-28T17:29:10.387135Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Strange Nostalgia For The Future",
+      "artist": "Cut Copy",
+      "has_synced": false,
+      "path": "select/01_Strange_Nostalgia_For_The_Future_Cut_Copy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Duty Now for the Future",
+      "artist": "Devo",
+      "has_synced": false,
+      "path": "select/02_Duty_Now_for_the_Future_Devo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Duty Now For The Future!",
+      "artist": "Devo",
+      "has_synced": false,
+      "path": "select/03_Duty_Now_For_The_Future!_Devo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Built For The Future - Live (Canada)",
+      "artist": "The Fixx",
+      "has_synced": false,
+      "path": "select/04_Built_For_The_Future_-_Live_(Canada)_The_Fixx.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "For the Future",
+      "artist": "Raven",
+      "has_synced": false,
+      "path": "select/05_For_the_Future_Raven.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hope for the Future",
+      "artist": "Marillion",
+      "has_synced": false,
+      "path": "select/06_Hope_for_the_Future_Marillion.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hope For The Future",
+      "artist": "Bastille",
+      "has_synced": true,
+      "path": "select/07_Hope_For_The_Future_Bastille.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hope For the Future",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/08_Hope_For_the_Future_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Headed For The Future",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/09_Headed_For_The_Future_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Headed For The Future",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/10_Headed_For_The_Future_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Built For The Future",
+      "artist": "The Fixx",
+      "has_synced": false,
+      "path": "select/11_Built_For_The_Future_The_Fixx.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Built For The Future",
+      "artist": "The Fixx",
+      "has_synced": true,
+      "path": "select/12_Built_For_The_Future_The_Fixx.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Built For The Future - 12\" Rock Version",
+      "artist": "The Fixx",
+      "has_synced": true,
+      "path": "select/13_Built_For_The_Future_-_12__Rock_Version_The_Fixx.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "For The Future",
+      "artist": "平井大",
+      "has_synced": false,
+      "path": "select/pl_01_For_The_Future_平井大.txt"
+    }
+  ]
+}
